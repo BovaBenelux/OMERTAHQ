@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OMERTAHQ
+- 👋 Hi, I’m @BovaBenelux
 - 👀 I’m interested in E-commerce Saas Company's
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on how to code + web app
